@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  1 MAY 2023 14:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  4 MAY 2023 18:18
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -944,152 +944,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 296--299
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 300--301
-[]\OT1/txr/m/n/12 To solve this prob-lem, write down the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
-\OT1/txr/m/n/12 pos-si-bil-i-ties where the prod-uct of num-bers
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 304--305
-[]\OT1/txr/m/n/12 The pos-si-ble out comes of (x,y) =
- []
-
-
-Overfull \hbox (4.92004pt too wide) in paragraph at lines 304--305
-\OT1/txr/m/n/12 (2,3),(2,4),(2,5),(2,6),(3,1),(3,2),(3,3),(3,4),(3,5),(3,6) 
- []
-
-
-Overfull \hbox (7.92004pt too wide) in paragraph at lines 304--305
-\OT1/txr/m/n/12 ,(4,1),(4,2),(4,3),(4,4),(4,5),(4,6),(5,1),(5,2),(5,3),(5,4) 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 304--305
-
- []
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.309 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 306--309
-
- []
-
-
-Overfull \hbox (16.92352pt too wide) in paragraph at lines 306--309
-\OT1/txr/m/n/12 [(1\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 1)\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 (1\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 2)\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 (1\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 3)\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 (1\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 4)\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 (1\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 5)\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 (1\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 6)\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 (2\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 1)\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 (2\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 2)\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 (2\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 3)[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 306--309
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
-
- []
-
-
-! LaTeX Error: Bad math environment delimiter.
+! LaTeX Error: Unicode character ∑ (U+2211)
+               not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.313 \begin{equation}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! You can't use `\eqno' in math mode.
-\endmathdisplay@a ...\df@tag \@empty \else \veqno 
-                                                  \alt@tag \df@tag \fi \ifx ...
-l.315 \end{equation}
-                    
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.315 \end{equation}
-                    
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+l.302 \[ P(XY<N) = ∑
+                      \sum_{k=1}^{m} P(X=k) F_Y(N/k) \]
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 
-! LaTeX Error: \begin{document} ended by \end{equation}.
+Underfull \hbox (badness 10000) in paragraph at lines 302--306
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.315 \end{equation}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.315 \end{equation}
-                    
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.315 \end{equation}
-                    
-Things are pretty mixed up, but I think the worst is over.
+ []
 
 
-Overfull \hbox (32.20045pt too wide) in paragraph at lines 312--316
-[]\OT1/txr/m/n/12 P([]$\OML/txmi/m/it/12 < \OT1/txr/m/n/12 9) = [][][][] =
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
+
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 309--313
+\OML/txmi/m/it/12 P\OT1/txr/m/n/12 (\OML/txmi/m/it/12 XY < \OT1/txr/m/n/12 9) = (1\OML/txmi/m/it/12 =\OT1/txr/m/n/12 6)\OML/txmi/m/it/12 F[]\OT1/txr/m/n/12 (9) + (1\OML/txmi/m/it/12 =\OT1/txr/m/n/12 6)\OML/txmi/m/it/12 F[]\OT1/txr/m/n/12 (9\OML/txmi/m/it/12 =\OT1/txr/m/n/12 2) +
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 309--313
+\OT1/txr/m/n/12 (1\OML/txmi/m/it/12 =\OT1/txr/m/n/12 6)\OML/txmi/m/it/12 F[]\OT1/txr/m/n/12 (9\OML/txmi/m/it/12 =\OT1/txr/m/n/12 3) + (1\OML/txmi/m/it/12 =\OT1/txr/m/n/12 6)\OML/txmi/m/it/12 F[]\OT1/txr/m/n/12 (9\OML/txmi/m/it/12 =\OT1/txr/m/n/12 4) + (1\OML/txmi/m/it/12 =\OT1/txr/m/n/12 6)\OML/txmi/m/it/12 F[]\OT1/txr/m/n/12 (9\OML/txmi/m/it/12 =\OT1/txr/m/n/12 5) +
  []
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.318 \end{document}
+l.315 \end{document}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--318
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
 
  []
 
@@ -1102,17 +1002,18 @@ Package rerunfilecheck Info: File `output.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29128 strings out of 477678
- 578153 string characters out of 5829488
+ 29130 strings out of 477678
+ 578160 string characters out of 5829488
  839845 words of memory out of 5000000
- 47323 multiletter control sequences out of 15000+600000
- 526516 words of font info for 141 fonts, out of 8000000 for 9000
+ 47324 multiletter control sequences out of 15000+600000
+ 527892 words of font info for 143 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  101i,6n,96p,496b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on output.pdf (1 page, 33258 bytes).
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on output.pdf (1 page, 42838 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
+ 47 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 2 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
