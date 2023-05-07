@@ -299,10 +299,22 @@ Y = Outcome of the second dice\\
 
 The out come of each dice can be=[1,2,3,4,5,6] \\
 
-\[ P(XY<N) = ∑\sum_{k=1}^{m} P(X=k) F_Y(N/k) \]
-\\
+\begin{equation}
+ \[ P(XY<N) = ∑\sum_{k=1}^{m} P(X=k) F_Y(N/k) \]
+\end{equation}
         where P(X=k) is the probability mass function of X, $F_Y(x)$
  is the cumulative distribution function of Y, and m is the largest integer such that m $<$ N.\\
+\begin{equation} 
+ P(X = k) = 1/6, k = 1, 2, 3, 4, 5, 6\\
+ \end{equation}
+ \begin{equation} 
+ \begin{split}
+ $ F_Y(k) = P(Y < k) = (k-1)/6 $ , k $=$ 1, 2, 3, 4, 5, 6\\ 
+ $F_Y(k) = P(Y<k)=[k]/6$ ,k in [1,6] except 1,2,3,4,5,6 \\
+ $ F_Y(k) = 1$ for k $>$ 6\\ 
+ $F_Y(k) = 0$ for k$<$1\\
+ \end{split}
+  \end{equation}
  
  $ P(XY < N) = (1/6) F_Y(N) + (1/6) F_Y(N/2) + (1/6) F_Y(N/3) + (1/6) F_Y(N/4) + (1/6) F_Y(N/5) + (1/6) F_Y(N/6) $\\
 
