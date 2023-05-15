@@ -297,11 +297,12 @@ columns=fullflexible
 X = Outcome of the first dice\\
 Y = Outcome of the second dice\\
 
-\noindent The outcome of each dice can be=[1,2,3,4,5,6] \\
+\noindent The outcome of each dice can be=\cbrak{1,2,3,4,5,6} \\
 
 \noindent We first solve the question for a general case N ,i.e the case where the product of numbers appearing on the die are less than N
 
 \begin{align}
+ F_Y(x)= P(X\leqslant x)\\
  P(XY<N) = ∑\sum_{k=1}^{6} P(X=k) [F_Y( \frac{N}{k} )-P(Y=\frac{N}{k})]\\
  F_Y1(\frac{N}{k}) = F_Y(\frac{N}{k})-P(Y=\frac{N}{k})\\
  P(XY<N) = ∑\sum_{k=1}^{6} P(X=k) F_Y1(\frac{N}{k})\\
@@ -322,16 +323,19 @@ is the cumulative distribution function of Y.\\
 
 \noindent P(XY $<$ N) = \\
 
-\noindent(\(\frac{1}{6}\)) F_Y1(N) + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{2}\]) + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{3}\]) + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{4}\]) + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{5}\]) + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{6}\]) 
-\\
- 
+\noindent \cbrak{\frac{1}{6} F_Y1(N)}+\cbrak{ \frac{1}{6} F_Y1(\frac{N}{2})}+\cbrak{\frac{1}{6} F_Y1(\frac{N}{3})}+\cbrak{\frac{1}{6} F_Y1(\frac{N}{4}) }+ \cbrak{\frac{1}{6} F_Y1(\frac{N}{5})} +\cbrak{ \frac{1}{6} F_Y1(\frac{N}{6}) }\\
+
 \noindent Calculation for N=9:\\
   
 \noindent Using formulae (4) and (5)\\
 
-\noindent P(XY $<$ 9) = (\(\frac{1}{6}\)) F_Y1(9) + (\(\frac{1}{6}\)) F_Y1(\(\frac{9}{2}\)) + (\(\frac{1}{6}\)) F_Y1(\(\frac{9}{3}\)) + (\(\frac{1}{6}\)) F_Y1(\(\frac{9}{4}\)) + (\(\frac{1}{6}\)) F_Y1(\(\frac{9}{5}\)) + (\(\frac{1}{6}\)) F_Y1(\(\frac{9}{6}\)) \\
- 
-\noindent P(XY$<$9)=(\(\frac{1}{6}\)) (1) + (\(\frac{1}{6}\)) (\(\frac{4}{6}\)) + (\(\frac{1}{6}\)) (\(\frac{2}{6}\)) + (\(\frac{1}{6}\)) (\(\frac{2}{6}\)) + (\(\frac{1}{6}\)) (\(\frac{1}{6}\)) + (\(\frac{1}{6}\)) (\(\frac{1}{6}\)) \\
+\noindent P(XY $<$ 9) =\\
+
+\noindent \cbrak{\frac{1}{6} F_Y1(9)}+\cbrak{ \frac{1}{6} F_Y1(\frac{9}{2})}+\cbrak{\frac{1}{6} F_Y1(\frac{9}{3})}+\cbrak{\frac{1}{6} F_Y1(\frac{9}{4}) }+ \cbrak{\frac{1}{6} F_Y1(\frac{9}{5})} +\cbrak{ \frac{1}{6} F_Y1(\frac{9}{6}) }\\
+
+
+
+\noindent P(XY$<$9)=\cbrak{\frac{1}{6} \times 1}+\cbrak{\frac{1}{6} \times \frac{4}{6}}+\cbrak{ \frac{1}{6} \times \frac{2}{6} }+\cbrak{\frac{1}{6} \times \frac{2}{6}} +\cbrak{\frac{1}{6} \times \frac{1}{6}} +\cbrak{\frac{1}{6} \times \frac{1}{6}} \\
 
 \noindent P(XY$<$9)=\(\frac{4}{9}\)\\
 

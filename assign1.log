@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  11 MAY 2023 15:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  15 MAY 2023 15:08
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -955,7 +955,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.309  \end{align}
+l.310  \end{align}
                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -968,7 +968,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.309  \end{align}
+l.310  \end{align}
                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -981,7 +981,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.309  \end{align}
+l.310  \end{align}
                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -994,364 +994,33 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.309  \end{align}
+l.310  \end{align}
                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--320
+Underfull \hbox (badness 10000) in paragraph at lines 318--321
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
 
  []
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.325 \noindent(\(\frac{1}{6}\)) F_
-                                   Y1(N) + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+$[]$\OT1/txr/m/n/12 +$[]$+$[]$+$[]$+
+ []
 
 
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.325 \noindent(\(\frac{1}{6}\)) F_Y1(N) + (\(
-                                              \frac{1}{6}\)) F_Y1(\[\frac{N}...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.325 ...c{1}{6}\)) F_Y1(N) + (\(\frac{1}{6}\)) F_
-                                                  Y1(\[\frac{N}{2}\]) + (\(\...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.325 ...6}\)) F_Y1(N) + (\(\frac{1}{6}\)) F_Y1(\[
-                                                  \frac{N}{2}\]) + (\(\frac{...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{2}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: \begin{document} ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{2}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{2}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{2}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-Things are pretty mixed up, but I think the worst is over.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.325 ...1(\[\frac{N}{2}\]) + (\(\frac{1}{6}\)) F_
-                                                  Y1(\[\frac{N}{3}\]) + (\(\...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.325 ...frac{N}{2}\]) + (\(\frac{1}{6}\)) F_Y1(\[
-                                                  \frac{N}{3}\]) + (\(\frac{...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{3}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: \begin{document} ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{3}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{3}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{3}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-Things are pretty mixed up, but I think the worst is over.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.325 ...1(\[\frac{N}{3}\]) + (\(\frac{1}{6}\)) F_
-                                                  Y1(\[\frac{N}{4}\]) + (\(\...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.325 ...frac{N}{3}\]) + (\(\frac{1}{6}\)) F_Y1(\[
-                                                  \frac{N}{4}\]) + (\(\frac{...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{4}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: \begin{document} ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{4}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{4}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{4}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-Things are pretty mixed up, but I think the worst is over.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.325 ...1(\[\frac{N}{4}\]) + (\(\frac{1}{6}\)) F_
-                                                  Y1(\[\frac{N}{5}\]) + (\(\...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.325 ...frac{N}{4}\]) + (\(\frac{1}{6}\)) F_Y1(\[
-                                                  \frac{N}{5}\]) + (\(\frac{...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{5}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: \begin{document} ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{5}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{5}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{5}\]
-                                                  ) + (\(\frac{1}{6}\)) F_Y1...
-Things are pretty mixed up, but I think the worst is over.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.325 ...1(\[\frac{N}{5}\]) + (\(\frac{1}{6}\)) F_
-                                                  Y1(\[\frac{N}{6}\])
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.325 ...frac{N}{5}\]) + (\(\frac{1}{6}\)) F_Y1(\[
-                                                  \frac{N}{6}\])
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{6}\]
-                                                  )
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: \begin{document} ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{6}\]
-                                                  )
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{6}\]
-                                                  )
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.325 ... + (\(\frac{1}{6}\)) F_Y1(\[\frac{N}{6}\]
-                                                  )
-Things are pretty mixed up, but I think the worst is over.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 325--327
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
 
  []
 
@@ -1365,135 +1034,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 330--331
 
  []
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.332 \noindent P(XY $<$ 9) = (\(\frac{1}{6}\)) F_
-                                                  Y1(9) + (\(\frac{1}{6}\)) ...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.332 ... $<$ 9) = (\(\frac{1}{6}\)) F_Y1(9) + (\(
-                                                  \frac{1}{6}\)) F_Y1(\(\fra...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.332 ...c{1}{6}\)) F_Y1(9) + (\(\frac{1}{6}\)) F_
-                                                  Y1(\(\frac{9}{2}\)) + (\(\...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.332 ...6}\)) F_Y1(9) + (\(\frac{1}{6}\)) F_Y1(\(
-                                                  \frac{9}{2}\)) + (\(\frac{...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.332 ...1(\(\frac{9}{2}\)) + (\(\frac{1}{6}\)) F_
-                                                  Y1(\(\frac{9}{3}\)) + (\(\...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.332 ...frac{9}{2}\)) + (\(\frac{1}{6}\)) F_Y1(\(
-                                                  \frac{9}{3}\)) + (\(\frac{...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.332 ...1(\(\frac{9}{3}\)) + (\(\frac{1}{6}\)) F_
-                                                  Y1(\(\frac{9}{4}\)) + (\(\...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.332 ...frac{9}{3}\)) + (\(\frac{1}{6}\)) F_Y1(\(
-                                                  \frac{9}{4}\)) + (\(\frac{...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.332 ...1(\(\frac{9}{4}\)) + (\(\frac{1}{6}\)) F_
-                                                  Y1(\(\frac{9}{5}\)) + (\(\...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.332 ...frac{9}{4}\)) + (\(\frac{1}{6}\)) F_Y1(\(
-                                                  \frac{9}{5}\)) + (\(\frac{...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.332 ...1(\(\frac{9}{5}\)) + (\(\frac{1}{6}\)) F_
-                                                  Y1(\(\frac{9}{6}\)) \\
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.332 ...frac{9}{5}\)) + (\(\frac{1}{6}\)) F_Y1(\(
-                                                  \frac{9}{6}\)) \\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 332--333
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+$[]$\OT1/txr/m/n/12 +$[]$+$[]$+$[]$+
  []
 
 
@@ -1502,14 +1050,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 334--335
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--337
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\OT1/txr/m/n/12 P(XY$\OML/txmi/m/it/12 <$\OT1/txr/m/n/12 9)=$[]$+$[]$+$[]$+$[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
 
  []
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.341 \end{document}
+l.345 \end{document}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1522,18 +1080,18 @@ Package rerunfilecheck Info: File `output.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29146 strings out of 477678
- 578369 string characters out of 5829488
- 858845 words of memory out of 5000000
+ 29147 strings out of 477678
+ 578381 string characters out of 5829488
+ 860845 words of memory out of 5000000
  47335 multiletter control sequences out of 15000+600000
  531544 words of font info for 154 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  101i,19n,96p,496b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on output.pdf (1 page, 47605 bytes).
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on output.pdf (1 page, 51030 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 65 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
